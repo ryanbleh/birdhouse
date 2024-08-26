@@ -1,0 +1,1 @@
+This is a birdhouse which you can 3d print on 256x256x256mm build plate (p1s, x1c) that opens up, and can hold a little camera. Each one of these birdhouses takes just about 1kg of filament, so in the future I hope to be able to redesign it to be smaller to save on costs during manufacturing. 
